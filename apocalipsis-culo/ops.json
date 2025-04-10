@@ -6,8 +6,20 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "bec5a8b6-c42c-34fc-8475-540cb69a2ff4",
+    "name": "juanlu_serra",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "fa0f3f8f-e48c-4651-abd1-a2868ff60087",
     "name": "beaaenn",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "3fb30122-8352-3a2f-97dc-aabe245d5f33",
+    "name": "beeaenn",
     "level": 4,
     "bypassesPlayerLimit": false
   }

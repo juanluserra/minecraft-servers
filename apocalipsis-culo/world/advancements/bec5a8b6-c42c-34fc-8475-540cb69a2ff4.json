@@ -1,0 +1,342 @@
+{
+  "minecraft:recipes/decorative_blocks/dry_tall_grass_from_smelting": {
+    "criteria": {
+      "has_tall_grass": "2025-04-08 13:30:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorative_blocks/dried_tall_grass_from_smoking": {
+    "criteria": {
+      "has_grass": "2025-04-08 13:30:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorative_blocks/dried_large_fern_from_campfire_cooking": {
+    "criteria": {
+      "has_fern": "2025-04-08 13:30:24 +0200"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_egg": {
+    "criteria": {
+      "has_eggs": "2025-04-08 13:30:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorative_blocks/dry_fern_from_smelting": {
+    "criteria": {
+      "has_fern": "2025-04-08 13:30:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorative_blocks/dried_tall_grass_from_campfire_cooking": {
+    "criteria": {
+      "has_grass": "2025-04-08 13:30:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorative_blocks/dried_grass_block_from_smoking": {
+    "criteria": {
+      "has_grass_block": "2025-04-08 13:30:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorative_blocks/dried_grass_from_smoking": {
+    "criteria": {
+      "has_grass": "2025-04-08 13:30:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorative_blocks/dry_grass_from_smelting": {
+    "criteria": {
+      "has_grass": "2025-04-08 13:30:24 +0200"
+    },
+    "done": true
+  },
+  "decorative_winter:recipes/decorative_blocks/festive_chain": {
+    "criteria": {
+      "has_chain": "2025-04-08 13:30:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorative_blocks/dried_grass_block_from_campfire_cooking": {
+    "criteria": {
+      "has_grass_block": "2025-04-08 13:30:24 +0200"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "oat": "2025-04-08 13:30:24 +0200",
+      "wild_strawberry": "2025-04-08 13:30:24 +0200",
+      "corn": "2025-04-08 13:30:24 +0200",
+      "onion": "2025-04-08 13:30:24 +0200",
+      "wild_corn": "2025-04-08 13:30:24 +0200",
+      "wild_ribwort": "2025-04-08 13:30:24 +0200",
+      "strawberry": "2025-04-08 13:30:24 +0200",
+      "wild_nettle": "2025-04-08 13:30:24 +0200",
+      "barley": "2025-04-08 13:30:24 +0200",
+      "tomato": "2025-04-08 13:30:24 +0200",
+      "lettuce": "2025-04-08 13:30:24 +0200",
+      "wild_lettuce": "2025-04-08 13:30:24 +0200",
+      "wild_tomatoes": "2025-04-08 13:30:24 +0200",
+      "oat_seeds": "2025-04-08 13:30:24 +0200",
+      "tomato_seeds": "2025-04-08 13:30:24 +0200",
+      "barley_seeds": "2025-04-08 13:30:24 +0200",
+      "strawberry_seeds": "2025-04-08 13:30:24 +0200",
+      "lettuce_seeds": "2025-04-08 13:30:24 +0200",
+      "kernels": "2025-04-08 13:30:24 +0200",
+      "wild_barley": "2025-04-08 13:30:24 +0200",
+      "wild_onion": "2025-04-08 13:30:24 +0200",
+      "wild_oat": "2025-04-08 13:30:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorative_blocks/dried_grass_from_campfire_cooking": {
+    "criteria": {
+      "has_grass": "2025-04-08 13:30:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorative_blocks/dried_fern_from_campfire_cooking": {
+    "criteria": {
+      "has_fern": "2025-04-08 13:30:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorative_blocks/dried_fern_from_smoking": {
+    "criteria": {
+      "has_fern": "2025-04-08 13:30:24 +0200"
+    },
+    "done": true
+  },
+  "meadow:main/root": {
+    "criteria": {
+      "seeds": "2025-04-08 13:30:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorative_blocks/dried_large_fern_from_smoking": {
+    "criteria": {
+      "has_fern": "2025-04-08 13:30:24 +0200"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2025-04-08 13:30:24 +0200"
+    },
+    "done": true
+  },
+  "decorative_winter:recipes/decorative_blocks/wreath": {
+    "criteria": {
+      "has_berries": "2025-04-08 13:30:24 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-04-08 13:30:24 +0200"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2025-04-08 13:30:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorative_blocks/dry_grass_block_from_smelting": {
+    "criteria": {
+      "has_grass_block": "2025-04-08 13:30:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorative_blocks/dry_large_fern_from_smelting": {
+    "criteria": {
+      "has_large_fern": "2025-04-08 13:30:24 +0200"
+    },
+    "done": true
+  },
+  "decorative_winter:recipes/decorative_blocks/frosty_wand": {
+    "criteria": {
+      "has_glowstone": "2025-04-08 13:30:24 +0200"
+    },
+    "done": true
+  },
+  "dustydecorations:welcome_to_dusty_decor": {
+    "criteria": {
+      "welcome_to_dusty_decor_0": "2025-04-08 13:30:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-08 13:30:25 +0200"
+    },
+    "done": true
+  },
+  "decoration_delight:the_search_begins_advancement": {
+    "criteria": {
+      "the_search_begins_advancement": "2025-04-08 13:30:25 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-04-08 13:30:25 +0200"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-04-08 13:30:25 +0200"
+    },
+    "done": true
+  },
+  "pizzadelight:root": {
+    "criteria": {
+      "tick": "2025-04-08 13:30:25 +0200"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-04-08 13:30:25 +0200"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-04-08 13:30:25 +0200"
+    },
+    "done": true
+  },
+  "yungscavebiomes:root": {
+    "criteria": {
+      "always": "2025-04-08 13:30:25 +0200"
+    },
+    "done": true
+  },
+  "decoration_delight:decoration_101_advancement": {
+    "criteria": {
+      "decoration_101_advancement": "2025-04-08 13:30:25 +0200"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2025-04-08 13:30:26 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 13:30:26 +0200"
+    },
+    "done": false
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2025-04-08 13:30:26 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 13:30:26 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 13:30:26 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 13:30:26 +0200"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-04-08 13:30:26 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 13:46:54 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 13:46:54 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 13:46:54 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 13:46:54 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 13:46:54 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 13:46:54 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 13:46:54 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 13:46:54 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 13:46:54 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 13:46:54 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 13:46:54 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 13:46:54 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
